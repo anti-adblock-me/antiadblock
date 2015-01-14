@@ -1,2 +1,2 @@
 # antiadblock
-A antiadblock script to dtect any adblocking software and show a notification
+A <a href="http://antiadblock.me">antiadblock script</a> to detect any adblocking software and show an notification to the user.
