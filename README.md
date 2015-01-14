@@ -1,0 +1,2 @@
+# antiadblock
+A antiadblock script
